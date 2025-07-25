@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 public class CuentaBancaria {
     private Usuario usuario;
     private double saldo;
-    private TipoDeCuenta tipo;  // ← este era el error
+    private TipoDeCuenta tipo; 
 
     public CuentaBancaria(Usuario usuario, TipoDeCuenta tipo) {
         this.usuario = usuario;
