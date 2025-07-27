@@ -1,12 +1,11 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+DANIELA
  */
 package com.mycompany.proyecto;
 
 import javax.swing.JOptionPane;
 
-
+//Esta parte es solamente el menu
         for (int i = 0; i < cantidadUsuarios; i++) {
             Usuario_Registrado u = usuarios[i];
             if (u.getNumeroCuenta() == cuentaIngresada && u.getPin() == pinIngresado) {

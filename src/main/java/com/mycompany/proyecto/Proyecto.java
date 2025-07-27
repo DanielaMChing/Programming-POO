@@ -1,7 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+DANIELA
  */
-
 package com.mycompany.proyecto;
 
 import javax.swing.JOptionPane;
