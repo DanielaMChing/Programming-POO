@@ -2,7 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-//LA PARTE QUE ESTÁ GRIS, NO LA HICE YO
 package com.mycompany.proyecto;
 
 import javax.swing.JOptionPane;
